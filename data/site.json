@@ -1,0 +1,46 @@
+{
+  "version": "2.0",
+  "title": "LUVEN",
+  "pages": [
+    {
+      "id": "identidad",
+      "title": "Identidad de marca",
+      "file": "data/identidad.json"
+    },
+    {
+      "id": "producto",
+      "title": "Producto y etiquetas",
+      "file": "data/producto.json"
+    },
+    {
+      "id": "redes",
+      "title": "Instagram y WhatsApp",
+      "file": "data/redes.json"
+    },
+    {
+      "id": "contenido",
+      "title": "Contenido y Canva",
+      "file": "data/contenido.json"
+    },
+    {
+      "id": "apertura",
+      "title": "Apertura y comunidad",
+      "file": "data/apertura.json"
+    },
+    {
+      "id": "publicidad",
+      "title": "Publicidad digital",
+      "file": "data/publicidad.json"
+    },
+    {
+      "id": "operaciones",
+      "title": "Operaciones",
+      "file": "data/operaciones.json"
+    },
+    {
+      "id": "crecimiento",
+      "title": "Seguimiento y expansión",
+      "file": "data/crecimiento.json"
+    }
+  ]
+}
