@@ -1,0 +1,35 @@
+{
+  "id": "publicidad",
+  "title": "Publicidad digital",
+  "intro": "Invertir solo cuando la presencia comercial esté lista y cumpla políticas.",
+  "steps": [
+    {
+      "id": "publicidad-1",
+      "title": "Meta Business",
+      "definition": "Preparar administración",
+      "process": "Vincular página de Facebook e Instagram",
+      "assistant": "Guía"
+    },
+    {
+      "id": "publicidad-2",
+      "title": "Cuenta y pagos",
+      "definition": "Controlar publicidad",
+      "process": "Agregar medio de pago con límite de gastos",
+      "assistant": "Instrucciones"
+    },
+    {
+      "id": "publicidad-3",
+      "title": "Creativos",
+      "definition": "Preparar anuncios institucionales",
+      "process": "Usar piezas compatibles con políticas",
+      "assistant": "Concepto y diseño"
+    },
+    {
+      "id": "publicidad-4",
+      "title": "Pruebas",
+      "definition": "Medir campañas pequeñas",
+      "process": "Elegir presupuesto y evaluar resultados",
+      "assistant": "Análisis"
+    }
+  ]
+}
