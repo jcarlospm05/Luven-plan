@@ -1,0 +1,35 @@
+{
+  "id": "crecimiento",
+  "title": "Seguimiento y expansión",
+  "intro": "Desarrollar ideas nuevas solo después de comprobar su viabilidad.",
+  "steps": [
+    {
+      "id": "crecimiento-1",
+      "title": "Métricas",
+      "definition": "Evaluar redes",
+      "process": "Revisar visitas y seguidores semanales",
+      "assistant": "Tablero"
+    },
+    {
+      "id": "crecimiento-2",
+      "title": "Resultados",
+      "definition": "Medir esfuerzos",
+      "process": "Comparar resultados y costos",
+      "assistant": "Análisis"
+    },
+    {
+      "id": "crecimiento-3",
+      "title": "Futuros dulces",
+      "definition": "Explorar galletas, brownies y blondies",
+      "process": "Probar recetas y costeo antes de anunciarlos",
+      "assistant": "Recetas y costos"
+    },
+    {
+      "id": "crecimiento-4",
+      "title": "Proveedores",
+      "definition": "Explorar pasteles y picaderas",
+      "process": "Evaluar muestras, precios y tiempos",
+      "assistant": "Matriz de evaluación"
+    }
+  ]
+}
