@@ -1,0 +1,42 @@
+{
+  "id": "operaciones",
+  "title": "Operaciones",
+  "intro": "Controlar costos y procedimientos antes de ampliar las ventas.",
+  "steps": [
+    {
+      "id": "operaciones-1",
+      "title": "Costos",
+      "definition": "Calcular gasto real",
+      "process": "Registrar materias primas, envases, etiqueta y tiempo",
+      "assistant": "Excel"
+    },
+    {
+      "id": "operaciones-2",
+      "title": "Registro",
+      "definition": "Organizar trabajo interno",
+      "process": "Crear registro sin datos sensibles en el repositorio público",
+      "assistant": "Plantilla"
+    },
+    {
+      "id": "operaciones-3",
+      "title": "Pagos y entregas",
+      "definition": "Definir condiciones",
+      "process": "Acordar medios, zonas y horarios",
+      "assistant": "Procedimientos"
+    },
+    {
+      "id": "operaciones-4",
+      "title": "Calidad",
+      "definition": "Documentar proceso",
+      "process": "Anotar conservación y lotes",
+      "assistant": "Formato de control"
+    },
+    {
+      "id": "operaciones-5",
+      "title": "Cumplimiento",
+      "definition": "Revisar obligaciones",
+      "process": "Consultar normas vigentes de alimentos y alcohol",
+      "assistant": "Investigación orientativa"
+    }
+  ]
+}
