@@ -1,0 +1,125 @@
+{
+  "version": "3.0",
+  "purpose": "Roadmap, ficha estratégica y CMS local para el lanzamiento de LUVEN",
+  "brand": {
+    "name": "LUVEN",
+    "descriptor": "Ninguno",
+    "positioning": "Marca digital en nacimiento, cercana, artesanal, sencilla y elegante, sin aparentar lujo.",
+    "voice": "Humano, natural, sin frases rebuscadas ni historias familiares",
+    "colors": [
+      "#F0E4D5",
+      "#65313E",
+      "#E2E7DB",
+      "#EFE3CF"
+    ],
+    "status": "Sin tienda física, sin catálogo amplio y sin empaques personalizados",
+    "current": [
+      "Ponche tradicional, botellas de 750 ml y 350 ml"
+    ],
+    "future": [
+      "Galletas de chispas de chocolate",
+      "Brownies",
+      "Blondies",
+      "Posible subcontratación de pasteles y picaderas"
+    ],
+    "materials": [
+      "Cartón kraft natural",
+      "Bolsas blancas de papel",
+      "Posible sello gomígrafo o sticker transparente",
+      "Solo etiqueta del ponche personalizada"
+    ],
+    "channels": [
+      "Instagram",
+      "WhatsApp Business (uso permitido)"
+    ],
+    "market": "Santo Domingo, República Dominicana"
+  },
+  "strategy": [
+    {
+      "id": "s1",
+      "title": "Posicionamiento",
+      "body": "LUVEN es simplemente LUVEN, sin Bakery, Gifts ni Homemade fijo. Es una marca flexible en construcción. Presentar únicamente lo disponible y no fingir una tienda o empaques de lujo."
+    },
+    {
+      "id": "s2",
+      "title": "Público y propuesta",
+      "body": "Personas que valoran detalles artesanales, productos cuidados y regalos sencillos. El atractivo debe nacer de lo auténtico y de la calidad, no de promesas de exclusividad artificial."
+    },
+    {
+      "id": "s3",
+      "title": "Canales",
+      "body": "Instagram: imagen, reconocimiento, publicaciones institucionales y comunidad. WhatsApp Business: atención general y catálogo solo de productos compatibles con sus políticas. Revisar por separado requisitos de comercialización y publicidad de alcohol."
+    },
+    {
+      "id": "s4",
+      "title": "Producción de contenido",
+      "body": "Primero seis piezas institucionales: Muy pronto, Conoce LUVEN, Nuestra esencia, Historia, Detalles y Novedades. Luego reels con material real, fotografías de las botellas y calendario de 30 días. No representar artículos futuros como disponibles."
+    },
+    {
+      "id": "s5",
+      "title": "Herramientas",
+      "body": "ChatGPT: estrategia, textos y revisión. Canva: plantillas, publicaciones e identidad. Celular: fotografías. CapCut: videos. Meta Business Suite: gestión y anuncios compatibles. Google Drive: archivos y respaldo. Google Sheets: control."
+    },
+    {
+      "id": "s6",
+      "title": "Publicidad",
+      "body": "No invertir antes de tener identidad, publicaciones y atención. Preparar Meta Business, método de pago y presupuesto de prueba; valorar métricas antes de escalar. No utilizar campañas institucionales como promoción encubierta de alcohol."
+    },
+    {
+      "id": "s7",
+      "title": "Control comercial",
+      "body": "Registrar costos, proveedores, producción, lotes, pedidos, entregas y pagos en herramientas internas. Verificar permisos, rotulado, condiciones sanitarias y normas aplicables antes de comercializar el ponche."
+    },
+    {
+      "id": "s8",
+      "title": "Crecimiento",
+      "body": "Desarrollar galletas, brownies y blondies solo después de pruebas y costos. Evaluar proveedores para picaderas y pasteles; no anunciar productos pendientes."
+    }
+  ],
+  "roadmap": [
+    {
+      "id": "r1",
+      "period": "15–21 octubre",
+      "title": "Identidad",
+      "detail": "Definir concepto, paleta, logotipo, textos y criterios visuales."
+    },
+    {
+      "id": "r2",
+      "period": "22–28 octubre",
+      "title": "Infraestructura",
+      "detail": "Configurar Instagram, WhatsApp Business y archivos de trabajo; medir etiquetas y tomar fotografías."
+    },
+    {
+      "id": "r3",
+      "period": "29 octubre–4 noviembre",
+      "title": "Expectativa",
+      "detail": "Diseñar y publicar primera serie institucional; construir comunidad."
+    },
+    {
+      "id": "r4",
+      "period": "5–11 noviembre",
+      "title": "Apertura prevista",
+      "detail": "Presentación digital de LUVEN; solo incorporar oferta comercial cuando esté lista y autorizada."
+    },
+    {
+      "id": "r5",
+      "period": "12–30 noviembre",
+      "title": "Mejora y validación",
+      "detail": "Revisar métricas y resultados; probar nuevos productos y procesos."
+    }
+  ],
+  "ideas": [
+    "Storytelling natural sin narrar la vida de la pareja",
+    "Fotografías reales de botella 750 ml y 350 ml",
+    "Fondos crema, vino, salvia y champán",
+    "Mockups de publicaciones, no de empaques ficticios",
+    "Etiquetas de ponche como única personalización física inicial"
+  ],
+  "constraints": [
+    "No afirmar que existe tienda física",
+    "No mostrar productos futuros como disponibles",
+    "No crear inventarios ni cajas premium ficticias",
+    "No publicar información sensible en GitHub",
+    "Alcohol sujeto a legislación local y políticas de las plataformas"
+  ]
+}
