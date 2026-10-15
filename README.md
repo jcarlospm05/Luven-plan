@@ -1,22 +1,25 @@
-# LUVEN Plan — tablero de lanzamiento
+# LUVEN — Plan de lanzamiento modular v2.0
 
-Aplicación HTML/CSS/JS autocontenida y adaptada a móviles. Abre `index.html` desde GitHub Pages.
+Web móvil estática: HTML, CSS, JavaScript y JSON por sección.
 
-## Funciones
-- 9 áreas de trabajo, pasos con definición, proceso y colaboración de ChatGPT.
-- Storytelling aprobado y paleta de referencia.
-- Progreso guardado en el navegador, búsqueda, filtro, exportación/importación JSON.
-- Sin dependencias, backend ni pagos.
+## Estructura
 
-## Publicar en GitHub Pages
-1. En el repositorio, abre **Settings → Pages**.
-2. En **Build and deployment**, selecciona **Deploy from a branch**.
-3. Elige rama **main** y carpeta **/(root)**, luego **Save**.
-4. Espera la publicación y entra a `https://jcarlospm05.github.io/Luven-plan/`.
+- `index.html`: punto de entrada y navegación por páginas.
+- `css/styles.css`: estilos.
+- `js/app.js`: navegación, checklist, búsqueda y respaldos.
+- `data/site.json`: listado de módulos.
+- `data/*.json`: tareas independientes por categoría y storytelling.
+- `assets/`: fotografías del producto (pendientes de integrar).
 
-## Pendiente
-- Incorporar fotografías reales de las botellas de 750 y 350 ml dentro de `assets/`. Los indicadores visuales actuales son marcadores provisionales.
-- Revisión funcional en Android y pulido visual respecto al paquete inicial entregado.
+Para agregar un módulo: crea su archivo JSON e incorpóralo a `data/site.json`. Para modificar tareas existentes edita solamente el JSON de su sección y conserva los identificadores de pasos: así no se pierde el progreso guardado.
 
-## Atención
-El progreso de cada usuario está en `localStorage`, no se sincroniza automáticamente. **No introducir datos personales de clientes**: el repositorio es público. El sitio es exclusivamente un planificador interno, no una tienda ni un canal para vender alcohol.
+## Publicación
+
+GitHub Pages: rama `main`, carpeta `/(root)`.
+URL prevista: https://jcarlospm05.github.io/Luven-plan/
+
+## Advertencias
+
+El progreso se guarda localmente en cada navegador. El respaldo JSON sirve para trasladarlo a otro teléfono. Esta web no es una tienda ni permite vender alcohol. No guardar contraseñas ni información personal de clientes en un repositorio público.
+
+Fotos reales de las dos botellas: pendientes de agregar bajo `assets/botella-750.jpg` y `assets/botella-350.jpg`.
