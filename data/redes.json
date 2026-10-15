@@ -1,0 +1,56 @@
+{
+  "id": "redes",
+  "title": "Instagram y WhatsApp",
+  "intro": "Crear canales con presencia honesta, sin catálogo ficticio.",
+  "steps": [
+    {
+      "id": "redes-1",
+      "title": "Usuario y correo",
+      "definition": "Definir identidad digital",
+      "process": "Comprobar disponibilidad y crear correo",
+      "assistant": "Opciones y guía"
+    },
+    {
+      "id": "redes-2",
+      "title": "Instagram profesional",
+      "definition": "Configurar presencia en redes",
+      "process": "Activar perfil profesional y seguridad",
+      "assistant": "Guía"
+    },
+    {
+      "id": "redes-3",
+      "title": "Perfil y bio",
+      "definition": "Presentar LUVEN",
+      "process": "Preparar biografía y avatar",
+      "assistant": "Textos y diseño"
+    },
+    {
+      "id": "redes-4",
+      "title": "Destacadas",
+      "definition": "Organizar información",
+      "process": "Crear Conócenos, Novedades y Contacto",
+      "assistant": "Portadas"
+    },
+    {
+      "id": "redes-5",
+      "title": "WhatsApp Business",
+      "definition": "Preparar atención general",
+      "process": "Configurar perfil y horarios",
+      "assistant": "Guía y redacción"
+    },
+    {
+      "id": "redes-6",
+      "title": "Respuestas rápidas",
+      "definition": "Atender de forma consistente",
+      "process": "Crear textos generales y etiquetas de seguimiento",
+      "assistant": "Plantillas"
+    },
+    {
+      "id": "redes-7",
+      "title": "Catálogo futuro",
+      "definition": "Usar solo productos permitidos",
+      "process": "Agregar artículos compatibles cuando existan",
+      "assistant": "Estructura futura"
+    }
+  ]
+}
