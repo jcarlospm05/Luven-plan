@@ -1,0 +1,49 @@
+{
+  "id": "contenido",
+  "title": "Contenido y Canva",
+  "intro": "Diseñar publicaciones de lanzamiento y contenido real, sin fingir productos ni empaques.",
+  "steps": [
+    {
+      "id": "contenido-1",
+      "title": "Kit Canva",
+      "definition": "Crear base editorial",
+      "process": "Definir plantillas con la paleta LUVEN",
+      "assistant": "Diseños editables"
+    },
+    {
+      "id": "contenido-2",
+      "title": "Banco de fotos",
+      "definition": "Organizar referencias auténticas",
+      "process": "Guardar fotos reales y videos propios",
+      "assistant": "Edición y selección"
+    },
+    {
+      "id": "contenido-3",
+      "title": "Copys",
+      "definition": "Definir lenguaje natural",
+      "process": "Escribir publicaciones evitando frases rebuscadas",
+      "assistant": "Redacción"
+    },
+    {
+      "id": "contenido-4",
+      "title": "Primera serie",
+      "definition": "Preparar publicaciones institucionales",
+      "process": "Diseñar Muy pronto, Presentación, Esencia, Historia, Novedades y Contacto",
+      "assistant": "Diseño"
+    },
+    {
+      "id": "contenido-5",
+      "title": "Reels",
+      "definition": "Preparar videos cortos",
+      "process": "Grabar detalles reales y editar vertical",
+      "assistant": "Guiones"
+    },
+    {
+      "id": "contenido-6",
+      "title": "Calendario",
+      "definition": "Planificar sin improvisar",
+      "process": "Organizar publicaciones de 30 días",
+      "assistant": "Calendario"
+    }
+  ]
+}
