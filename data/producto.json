@@ -1,0 +1,42 @@
+{
+  "id": "producto",
+  "title": "Producto y etiquetas",
+  "intro": "Producto actual: ponche tradicional. Botellas de 750 y 350 ml. Etiquetas a definir.",
+  "steps": [
+    {
+      "id": "producto-1",
+      "title": "Fotos reales",
+      "definition": "Documentar botellas",
+      "process": "Tomar fotografías de frente, perfil y de ambos tamaños",
+      "assistant": "Retoque e indicaciones"
+    },
+    {
+      "id": "producto-2",
+      "title": "Medir etiquetas",
+      "definition": "Ajustar diseño a botellas",
+      "process": "Medir zona plana e imprimir prueba",
+      "assistant": "Plantillas"
+    },
+    {
+      "id": "producto-3",
+      "title": "Etiquetas",
+      "definition": "Crear presentación sencilla",
+      "process": "Preparar propuestas para cada tamaño",
+      "assistant": "Diseño"
+    },
+    {
+      "id": "producto-4",
+      "title": "Rotulado",
+      "definition": "Revisar información requerida",
+      "process": "Confirmar requisitos sanitarios y legales",
+      "assistant": "Checklist orientativo"
+    },
+    {
+      "id": "producto-5",
+      "title": "Pruebas",
+      "definition": "Verificar materiales",
+      "process": "Pegar etiquetas y fotografiar resultado",
+      "assistant": "Revisión visual"
+    }
+  ]
+}
