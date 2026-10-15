@@ -1,0 +1,35 @@
+{
+  "id": "identidad",
+  "title": "Identidad de marca",
+  "intro": "LUVEN sin descriptor fijo; cálida, artesanal, cercana y elegante.",
+  "steps": [
+    {
+      "id": "identidad-1",
+      "title": "Concepto",
+      "definition": "Definir personalidad de la marca",
+      "process": "Aprobar valores, público y estilo de comunicación",
+      "assistant": "Estrategia y redacción"
+    },
+    {
+      "id": "identidad-2",
+      "title": "Paleta",
+      "definition": "Definir colores oficiales",
+      "process": "Validar crema, vino, salvia y champán",
+      "assistant": "Paleta y manual"
+    },
+    {
+      "id": "identidad-3",
+      "title": "Logotipo",
+      "definition": "Crear marca visual LUVEN",
+      "process": "Preparar tres propuestas y seleccionar una",
+      "assistant": "Diseño y revisión"
+    },
+    {
+      "id": "identidad-4",
+      "title": "Tipografías",
+      "definition": "Uniformar publicaciones",
+      "process": "Escoger fuentes de titulares y textos",
+      "assistant": "Selección y plantillas"
+    }
+  ]
+}
