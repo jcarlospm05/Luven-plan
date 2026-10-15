@@ -1,0 +1,35 @@
+{
+  "id": "apertura",
+  "title": "Apertura y comunidad",
+  "intro": "Presentar la marca gradualmente y captar seguidores genuinos.",
+  "steps": [
+    {
+      "id": "apertura-1",
+      "title": "Fecha tentativa",
+      "definition": "Coordinar apertura",
+      "process": "Elegir fecha basada en preparación",
+      "assistant": "Cronograma"
+    },
+    {
+      "id": "apertura-2",
+      "title": "Storytelling",
+      "definition": "Presentar LUVEN",
+      "process": "Publicar versión aprobada de la historia",
+      "assistant": "Texto y gráfica"
+    },
+    {
+      "id": "apertura-3",
+      "title": "Invitaciones",
+      "definition": "Dar a conocer el perfil",
+      "process": "Compartir con contactos interesados",
+      "assistant": "Mensajes"
+    },
+    {
+      "id": "apertura-4",
+      "title": "Atención",
+      "definition": "Responder a comunidad",
+      "process": "Revisar mensajes y comentarios",
+      "assistant": "Respuestas modelo"
+    }
+  ]
+}
